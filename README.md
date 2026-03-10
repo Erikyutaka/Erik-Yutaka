@@ -19,5 +19,5 @@ Tenho interesse em desenvolvimento de software, tecnologia e banco de dados
 
 ## Contato
 
-LinkedIn: www.linkedin.com/in/eriktakara
+LinkedIn: https://www.linkedin.com/in/erik-takara-88b545288/
 Email: erik.yutaka.7@gmail.com
